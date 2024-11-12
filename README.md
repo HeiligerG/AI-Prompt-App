@@ -108,7 +108,7 @@ Dieses Projekt ist unter der MIT Lizenz lizenziert - siehe die [LICENSE](LICENSE
 
 ## 👥 Mitwirkende
 
-- [Ihr Name](https://github.com/yourusername) - Initialentwicklung
+- [HolyG](https://github.com/HolyG) - Initialentwicklung
 
 ## 🤝 Beitragen
 
@@ -116,9 +116,9 @@ Beiträge sind willkommen! Bitte lesen Sie [CONTRIBUTING.md](CONTRIBUTING.md) f�
 
 ## 📧 Kontakt
 
-Ihr Name - [@IhrTwitterHandle](https://twitter.com/IhrTwitterHandle)
+Ihr Name - [@IhrTwitterHandle](https://twitter.com/the_real_holyg)
 
-Projekt Link: [https://github.com/yourusername/holy-ai-prompts](https://github.com/yourusername/holy-ai-prompts)
+Projekt Link: [https://github.com/holyg/holy-ai-prompts](https://github.com/holyg/holy-ai-prompts)
 
 ---
 
