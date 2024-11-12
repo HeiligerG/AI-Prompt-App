@@ -118,7 +118,7 @@ Beitr√§ge sind willkommen! Bitte lesen Sie [CONTRIBUTING.md](CONTRIBUTING.md) f√
 
 Ihr Name - [@IhrTwitterHandle](https://twitter.com/the_real_holyg)
 
-Projekt Link: [https://github.com/holyg/holy-ai-prompts](https://github.com/holyg/holy-ai-prompts)
+Projekt Link: [https://github.com/holyg/holy-ai-prompts](https://github.com/HolyG/holy-ai-prompts)
 
 ---
 
