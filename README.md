@@ -122,5 +122,5 @@ Projekt Link: [https://github.com/HeiligerG/holy-ai-prompts](https://github.com/
 ---
 
 <div align="center">
-  Mit 💜 erstellt von [Holy]
+  Mit 💜 erstellt von [HolyG]
 </div>
