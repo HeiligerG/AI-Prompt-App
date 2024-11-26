@@ -81,7 +81,6 @@ holy-ai-prompts/
 │   │   ├── components/  # React Komponenten
 │   │   ├── config/      # Konfigurationsdateien
 │   │   └── styles/      # CSS & Styling
-│   └── public/          # Statische Dateien
 └── server/              # Backend (Node.js + Express)
     ├── database/        # SQLite Datenbank
     ├── routes/          # API Routen
