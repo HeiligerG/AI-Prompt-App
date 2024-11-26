@@ -78,13 +78,27 @@ npm run dev
 holy-ai-prompts/
 ├── client/               # Frontend (React + Vite)
 │   ├── src/
-│   │   ├── components/  # React Komponenten
-│   │   ├── config/      # Konfigurationsdateien
-│   │   └── styles/      # CSS & Styling
-└── server/              # Backend (Node.js + Express)
-    ├── database/        # SQLite Datenbank
-    ├── routes/          # API Routen
-    └── middleware/      # Express Middleware
+│   │   ├── config/       # Konfigurationsdateien
+│   │   ├── api.js        # API Funktionen
+│   │   ├── App.jsx       # Hauptkomponente der React-App
+│   │   ├── index.css     # Globale CSS-Datei
+│   │   ├── main.jsx      # Einstiegspunkt der App
+│   ├── .env.development  # Entwicklungsumgebungsvariablen
+│   ├── index.html        # HTML-Vorlage
+│   ├── package.json      # Abhängigkeiten des Frontends
+│   ├── postcss.config.js # PostCSS-Konfiguration
+│   ├── tailwind.config.js # Tailwind CSS-Konfiguration
+│   └── vite.config.js    # Vite-Konfiguration
+├── server/               # Backend (Node.js + Express)
+│   ├── database/         # SQLite Datenbank
+│   │   └── init.js       # Initialisierung der Datenbank
+│   ├── middleware/       # Express Middleware
+│   │   └── security.js   # Sicherheitsfunktionen
+│   ├── routes/           # API Routen
+│   │   └── prompts.js    # Routen für Prompts
+│   ├── package.json      # Abhängigkeiten des Backends
+│   └── server.js         # Einstiegspunkt für den Backend-Server
+
 ```
 
 ## 🛠️ Technologie-Stack
