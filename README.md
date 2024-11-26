@@ -77,18 +77,18 @@ npm run dev
 ```
 holy-ai-prompts/
 ├── client/               # Frontend (React + Vite)
-│   ├── src/
-│   │   ├── config/       # Konfigurationsdateien
-│   │   ├── api.js        # API Funktionen
-│   │   ├── App.jsx       # Hauptkomponente der React-App
-│   │   ├── index.css     # Globale CSS-Datei
-│   │   ├── main.jsx      # Einstiegspunkt der App
-│   ├── .env.development  # Entwicklungsumgebungsvariablen
-│   ├── index.html        # HTML-Vorlage
-│   ├── package.json      # Abhängigkeiten des Frontends
-│   ├── postcss.config.js # PostCSS-Konfiguration
-│   ├── tailwind.config.js # Tailwind CSS-Konfiguration
-│   └── vite.config.js    # Vite-Konfiguration
+│   └── src/
+│       ├── App.jsx       # Hauptkomponente der React-App
+│       ├── index.css     # Globale CSS-Datei
+│       ├── main.jsx      # Einstiegspunkt der App
+│       └── config/       # Konfigurationsdateien
+│           └── api.js    # API Funktionen
+├── .env.development      # Entwicklungsumgebungsvariablen
+├── index.html            # HTML-Vorlage
+├── package.json          # Abhängigkeiten des Frontends
+├── postcss.config.js     # PostCSS-Konfiguration
+├── tailwind.config.js    # Tailwind CSS-Konfiguration
+└── vite.config.js        # Vite-Konfiguration
 ├── server/               # Backend (Node.js + Express)
 │   ├── database/         # SQLite Datenbank
 │   │   └── init.js       # Initialisierung der Datenbank
