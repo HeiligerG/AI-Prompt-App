@@ -2,7 +2,7 @@
 
 Alle wichtigen Änderungen an diesem Projekt werden in dieser Datei dokumentiert.
 
-## [1.0.0] - 2024-03-xx
+## [1.0.0] - 2024-12-10
 
 ### Added
 - 🎉 Initiale Version
